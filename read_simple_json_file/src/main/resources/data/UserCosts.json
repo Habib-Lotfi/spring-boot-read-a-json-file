@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Sport",
+    "cost": "18.74",
+    "date": "2023-05-25"
+  },
+  {
+    "category": "Rent",
+    "cost": "59",
+    "date": "2023-11-08"
+  },
+  {
+    "category": "Grocery",
+    "cost": "62",
+    "date": "2023-03-28"
+  },
+  {
+    "category": "Sport",
+    "cost": "45",
+    "date": "2023-10-22"
+  },
+  {
+    "category": "Sport",
+    "cost": "97",
+    "date": "2023-05-29"
+  },
+  {
+    "category": "Movie",
+    "cost": "10",
+    "date": "2023-01-22"
+  },
+  {
+    "category": "Mobile",
+    "cost": "65",
+    "date": "2023-01-27"
+  },
+  {
+    "category": "Grocery",
+    "cost": "71",
+    "date": "2023-11-24"
+  },
+  {
+    "category": "Rent",
+    "cost": "92",
+    "date": "2023-03-27"
+  },
+  {
+    "category": "Grocery",
+    "cost": "12",
+    "date": "2023-11-02"
+  },
+  {
+    "category": "Mobile",
+    "cost": "84",
+    "date": "2023-07-14"
+  },
+  {
+    "category": "Rent",
+    "cost": "69",
+    "date": "2023-01-05"
+  },
+  {
+    "category": "Rent",
+    "cost": "44",
+    "date": "2023-10-11"
+  },
+  {
+    "category": "Rent",
+    "cost": "29",
+    "date": "2023-07-23"
+  },
+  {
+    "category": "Grocery",
+    "cost": "44",
+    "date": "2023-10-23"
+  },
+  {
+    "category": "Rent",
+    "cost": "30",
+    "date": "2023-04-05"
+  },
+  {
+    "category": "Grocery",
+    "cost": "59",
+    "date": "2023-05-08"
+  },
+  {
+    "category": "Mobile",
+    "cost": "43",
+    "date": "2023-05-06"
+  },
+  {
+    "category": "Grocery",
+    "cost": "30",
+    "date": "2023-05-02"
+  },
+  {
+    "category": "Rent",
+    "cost": "17",
+    "date": "2023-09-07"
+  },
+  {
+    "category": "Sport",
+    "cost": "92",
+    "date": "2023-04-11"
+  },
+  {
+    "category": "Sport",
+    "cost": "80",
+    "date": "2023-09-24"
+  },
+  {
+    "category": "Rent",
+    "cost": "41",
+    "date": "2023-04-10"
+  },
+  {
+    "category": "Mobile",
+    "cost": "32",
+    "date": "2023-09-18"
+  },
+  {
+    "category": "Movie",
+    "cost": "65",
+    "date": "2023-05-06"
+  },
+  {
+    "category": "Grocery",
+    "cost": "98",
+    "date": "2023-07-13"
+  },
+  {
+    "category": "Mobile",
+    "cost": "6",
+    "date": "2023-05-19"
+  },
+  {
+    "category": "Grocery",
+    "cost": "70",
+    "date": "2023-04-28"
+  },
+  {
+    "category": "Movie",
+    "cost": "53",
+    "date": "2023-04-29"
+  },
+  {
+    "category": "Mobile",
+    "cost": "92",
+    "date": "2023-05-23"
+  },
+  {
+    "category": "Sport",
+    "cost": "24",
+    "date": "2023-09-07"
+  },
+  {
+    "category": "Mobile",
+    "cost": "49",
+    "date": "2023-10-16"
+  },
+  {
+    "category": "Grocery",
+    "cost": "37",
+    "date": "2023-07-10"
+  },
+  {
+    "category": "Mobile",
+    "cost": "97",
+    "date": "2023-08-20"
+  },
+  {
+    "category": "Mobile",
+    "cost": "98",
+    "date": "2023-08-08"
+  },
+  {
+    "category": "Movie",
+    "cost": "71",
+    "date": "2023-09-07"
+  },
+  {
+    "category": "Sport",
+    "cost": "8",
+    "date": "2023-02-01"
+  },
+  {
+    "category": "Sport",
+    "cost": "58",
+    "date": "2023-06-25"
+  },
+  {
+    "category": "Rent",
+    "cost": "96",
+    "date": "2023-09-19"
+  },
+  {
+    "category": "Grocery",
+    "cost": "93",
+    "date": "2023-11-06"
+  },
+  {
+    "category": "Grocery",
+    "cost": "70",
+    "date": "2023-12-16"
+  },
+  {
+    "category": "Rent",
+    "cost": "9",
+    "date": "2023-07-23"
+  },
+  {
+    "category": "Mobile",
+    "cost": "44",
+    "date": "2023-01-09"
+  },
+  {
+    "category": "Movie",
+    "cost": "73",
+    "date": "2023-07-19"
+  },
+  {
+    "category": "Mobile",
+    "cost": "17",
+    "date": "2023-03-09"
+  },
+  {
+    "category": "Sport",
+    "cost": "79",
+    "date": "2023-04-27"
+  },
+  {
+    "category": "Rent",
+    "cost": "66",
+    "date": "2023-04-27"
+  },
+  {
+    "category": "Rent",
+    "cost": "81",
+    "date": "2023-06-05"
+  },
+  {
+    "category": "Grocery",
+    "cost": "99",
+    "date": "2023-10-01"
+  },
+  {
+    "category": "Grocery",
+    "cost": "98",
+    "date": "2023-10-24"
+  },
+  {
+    "category": "Rent",
+    "cost": "5",
+    "date": "2023-04-04"
+  },
+  {
+    "category": "Movie",
+    "cost": "27",
+    "date": "2023-01-29"
+  },
+  {
+    "category": "Mobile",
+    "cost": "17",
+    "date": "2023-03-15"
+  },
+  {
+    "category": "Mobile",
+    "cost": "45",
+    "date": "2023-08-13"
+  },
+  {
+    "category": "Movie",
+    "cost": "67",
+    "date": "2023-08-29"
+  },
+  {
+    "category": "Mobile",
+    "cost": "44",
+    "date": "2023-01-05"
+  },
+  {
+    "category": "Mobile",
+    "cost": "37",
+    "date": "2023-06-23"
+  },
+  {
+    "category": "Sport",
+    "cost": "49",
+    "date": "2023-09-04"
+  },
+  {
+    "category": "Grocery",
+    "cost": "75",
+    "date": "2023-02-19"
+  },
+  {
+    "category": "Grocery",
+    "cost": "32",
+    "date": "2023-06-24"
+  },
+  {
+    "category": "Movie",
+    "cost": "46",
+    "date": "2023-01-10"
+  },
+  {
+    "category": "Mobile",
+    "cost": "71",
+    "date": "2023-01-04"
+  },
+  {
+    "category": "Grocery",
+    "cost": "91",
+    "date": "2023-04-10"
+  },
+  {
+    "category": "Movie",
+    "cost": "24",
+    "date": "2023-07-01"
+  },
+  {
+    "category": "Mobile",
+    "cost": "20",
+    "date": "2023-11-18"
+  },
+  {
+    "category": "Rent",
+    "cost": "97",
+    "date": "2023-05-15"
+  },
+  {
+    "category": "Mobile",
+    "cost": "97",
+    "date": "2023-03-14"
+  },
+  {
+    "category": "Movie",
+    "cost": "12",
+    "date": "2023-01-07"
+  },
+  {
+    "category": "Movie",
+    "cost": "62",
+    "date": "2023-08-10"
+  },
+  {
+    "category": "Sport",
+    "cost": "88",
+    "date": "2023-09-25"
+  },
+  {
+    "category": "Grocery",
+    "cost": "58",
+    "date": "2023-03-11"
+  },
+  {
+    "category": "Rent",
+    "cost": "67",
+    "date": "2023-10-13"
+  },
+  {
+    "category": "Mobile",
+    "cost": "40",
+    "date": "2023-08-21"
+  },
+  {
+    "category": "Sport",
+    "cost": "63",
+    "date": "2023-06-14"
+  },
+  {
+    "category": "Sport",
+    "cost": "25",
+    "date": "2023-12-16"
+  },
+  {
+    "category": "Mobile",
+    "cost": "52",
+    "date": "2023-11-01"
+  },
+  {
+    "category": "Sport",
+    "cost": "83",
+    "date": "2023-05-29"
+  },
+  {
+    "category": "Sport",
+    "cost": "64",
+    "date": "2023-12-29"
+  },
+  {
+    "category": "Sport",
+    "cost": "61",
+    "date": "2023-07-27"
+  },
+  {
+    "category": "Rent",
+    "cost": "12",
+    "date": "2023-01-09"
+  },
+  {
+    "category": "Mobile",
+    "cost": "37",
+    "date": "2023-07-14"
+  },
+  {
+    "category": "Movie",
+    "cost": "46",
+    "date": "2023-08-22"
+  },
+  {
+    "category": "Movie",
+    "cost": "48",
+    "date": "2023-03-15"
+  },
+  {
+    "category": "Movie",
+    "cost": "34",
+    "date": "2023-08-23"
+  },
+  {
+    "category": "Rent",
+    "cost": "39",
+    "date": "2023-03-03"
+  },
+  {
+    "category": "Sport",
+    "cost": "16",
+    "date": "2023-06-09"
+  },
+  {
+    "category": "Sport",
+    "cost": "23",
+    "date": "2023-09-04"
+  },
+  {
+    "category": "Rent",
+    "cost": "71",
+    "date": "2023-12-29"
+  },
+  {
+    "category": "Rent",
+    "cost": "12",
+    "date": "2023-07-30"
+  },
+  {
+    "category": "Grocery",
+    "cost": "46",
+    "date": "2023-11-29"
+  },
+  {
+    "category": "Movie",
+    "cost": "80",
+    "date": "2023-12-01"
+  },
+  {
+    "category": "Grocery",
+    "cost": "89",
+    "date": "2023-07-31"
+  },
+  {
+    "category": "Grocery",
+    "cost": "100",
+    "date": "2023-10-10"
+  },
+  {
+    "category": "Mobile",
+    "cost": "3",
+    "date": "2023-03-11"
+  },
+  {
+    "category": "Movie",
+    "cost": "51",
+    "date": "2023-09-13"
+  },
+  {
+    "category": "Sport",
+    "cost": "78",
+    "date": "2023-12-17"
+  },
+  {
+    "category": "Sport",
+    "cost": "16",
+    "date": "2023-08-25"
+  },
+  {
+    "category": "Mobile",
+    "cost": "56",
+    "date": "2023-04-23"
+  },
+  {
+    "category": "Rent",
+    "cost": "98",
+    "date": "2023-02-14"
+  },
+  {
+    "category": "Movie",
+    "cost": "7",
+    "date": "2023-12-29"
+  }
+]
